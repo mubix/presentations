@@ -1,2 +1,3 @@
-# presentations
-Public copies of my previous presentations
+# Presentations
+
+Public copies of my previous presentations / publications
